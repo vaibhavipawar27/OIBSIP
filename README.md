@@ -1,4 +1,4 @@
-#This repository contains three beginner-friendly Python GUI applications built using Tkinter.
+#This repository contains beginner-friendly Python GUI applications built using Tkinter.
 
 #BMI Calculator 
 A simple GUI application to calculate and display the user's Body Mass Index (BMI) based on height and weight input.
